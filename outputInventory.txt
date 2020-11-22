@@ -1,0 +1,19 @@
+MacBook Air	1300	43	1
+
+HP Chromebook	300	19	1
+
+iPad Mini	329	25	1
+
+iPhone SE	399	45	1
+
+iPad Pro	1649	29	1
+
+Apple TV	199	26	1
+
+iPhone 11 Pro Max	1449	23	1
+
+Apple Watch	1499	20	1
+
+Loyalty Membership (Okee)	20	40	0
+
+Loyalty Membership (Napl)	20	30	0
